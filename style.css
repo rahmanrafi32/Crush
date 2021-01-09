@@ -29,3 +29,10 @@ img:hover{
     height: 140%;
     transition: .5s;
 }
+
+footer{
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
