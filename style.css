@@ -1,0 +1,31 @@
+body{
+    background-color: #ffb3b3;
+    color: #fff;
+    font-family: 'Lobster', cursive;
+    margin: 10px 50px;
+    padding: 10px;
+}
+
+.verticalpic{
+    height: 100%;
+    width: 200px;
+    float: left;
+    margin: 6px;
+    padding: 5px;
+    image-rendering: auto;
+}
+
+.horizontalpic{
+    height: 90%;
+    width: 97%;
+    float: left;
+    margin: 6px;
+    padding: 5px;
+    border-radius: 7%;
+}
+
+img:hover{
+    width: 110%;
+    height: 140%;
+    transition: .5s;
+}
