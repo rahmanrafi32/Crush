@@ -1,38 +1,38 @@
-body{
-    background-color: #ffb3b3;
-    color: #fff;
-    font-family: 'Lobster', cursive;
-    margin: 10px 50px;
-    padding: 10px;
+body {
+  background-color: #ffb3b3;
+  color: #fff;
+  font-family: "Lobster", cursive;
+  margin: 10px 50px;
+  padding: 10px;
 }
 
-.verticalpic{
-    height: 100%;
-    width: 200px;
-    float: left;
-    margin: 6px;
-    padding: 5px;
-    image-rendering: auto;
+.verticalpic {
+  height: 100%;
+  width: 200px;
+  float: left;
+  margin: 6px;
+  padding: 5px;
+  image-rendering: auto;
 }
 
-.horizontalpic{
-    height: 90%;
-    width: 97%;
-    float: left;
-    margin: 6px;
-    padding: 5px;
-    border-radius: 7%;
+.horizontalpic {
+  height: 90%;
+  width: 97%;
+  float: left;
+  margin: 6px;
+  padding: 5px;
+  border-radius: 7%;
 }
 
-img:hover{
-    width: 110%;
-    height: 140%;
-    transition: .5s;
+img:hover {
+  width: 110%;
+  height: 140%;
+  transition: 0.5s;
 }
 
-footer{
-    margin-top: 10px;
-    padding: 10px;
-    text-align: center;
-    color: black;
+footer {
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  color: black;
 }
